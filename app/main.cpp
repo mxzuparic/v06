@@ -1,3 +1,4 @@
+#include "../MoneyUnitTest/pch.h"
 #include <iostream>
 #include "money.h"
 
